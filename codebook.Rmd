@@ -1,0 +1,17 @@
+# Getting and Cleaning Data - Analyzing Wearable Computing Dataset - JHU 
+
+## Analyzing Wearable Computing Dataset from the UCI repository.
+
+The dataset represents data collected from the accelerometers from the Samsung Galaxy S smartphone.
+
+## Packages Used 
+1. data.table
+2. reshape2
+
+## Loading Rundown 
+
+1. activityLabels - Stores activity labels provided with dataset in the activity_labels.txt.
+2. features - Stores features provided with dataset in the features.txt.
+3. train - Stores the train data from the train folder.
+3. test - Stores the test data from the test folder.
+4. combined - Merged both train and test.
